@@ -96,6 +96,10 @@ li, a {
         text-align: center;
     }
 
+    .menu li {
+        margin-left: 20px;
+    }
+
     .redes-sociais {
         margin-top: 20vh;
     }
