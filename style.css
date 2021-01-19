@@ -24,8 +24,8 @@ li, a {
 
 .header {
     display: flex;
-    padding: 24px 0;
     justify-content: space-around;
+    padding: 24px 0;
     box-shadow: 0px 3px 4px #efeeee;
     align-items: center;
 }
@@ -78,5 +78,13 @@ li, a {
 .scroll-down {
     text-align: center;
     margin-top: 80px;
+}
 
+/* MEDIAS QUERIES */
+
+@media (max-width: 663px) {
+    header {
+        flex-direction: column;
+        justify-content: center;
+    }
 }
