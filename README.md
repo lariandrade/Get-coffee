@@ -15,3 +15,7 @@
 - Desafio retirado da [DevChallenge](https://devchallenge.com.br/).
 - Criado por [Luciane Santos](https://github.com/lucianesantcs/).
 - Link do repositório: [Get-coffee](https://github.com/lucianesantcs/get-coffee).
+
+## Minha proposta
+
+Para saber como ficou minha versão é só [clicar aqui](https://get-coffee.netlify.app/).
