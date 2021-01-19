@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    border: none;
 }
 
 body {
@@ -15,9 +16,11 @@ li, a {
 }
 
 .container {
-    max-width: 1200px;
+    max-width: 980px;
     margin: 0 auto;
 }
+
+/* HEADER */
 
 .header {
     display: flex;
@@ -41,4 +44,39 @@ li, a {
 
 .border {
     box-shadow: 10px 5px 5px #efeeee;
+}
+
+/* SECTION */
+
+.wrapper {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.informations, .coffe {
+    margin-top: 100px;
+}
+
+.informations button {
+    font-weight: bold;
+    padding: 12px 60px;
+    margin-top: 50px;
+    background-color: #FCA60F;
+    color: #ffffff;
+    border-radius: 5px;
+}
+
+.informations button:hover {
+    background-color: #733612;   
+}
+
+.redes-sociais img {
+    margin: 20px 7px 0px 0px;
+}
+
+.scroll-down {
+    text-align: center;
+    margin-top: 80px;
+
 }
