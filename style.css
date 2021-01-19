@@ -54,7 +54,7 @@ li, a {
     flex-wrap: wrap;
 }
 
-.informations, .coffe {
+.informations, .coffee {
     margin-top: 100px;
 }
 
@@ -83,8 +83,22 @@ li, a {
 /* MEDIAS QUERIES */
 
 @media (max-width: 663px) {
-    header {
+    .header {
         flex-direction: column;
         justify-content: center;
     }
+
+    .coffee, .scroll-down {
+       display: none;      
+    }
+
+    .wrapper {
+        text-align: center;
+    }
+
+    .redes-sociais {
+        margin-top: 40vh;
+    }
+
+    
 }
