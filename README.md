@@ -8,10 +8,6 @@
      Landing page de uma cafeteria online
        <br />
     <br />
-    Desafio
-    ·
-    <a href="https://devchallenge.com.br/">DevChallenge</a>
-  </p>
 </p>
 
 ## Créditos
